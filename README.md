@@ -20,7 +20,8 @@ Literalura es una aplicación Java basada en Spring Boot que permite buscar libr
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu-usuario/literalura.git
+git clone https://github.com/CDRoss23/literalura.git
+
 cd literalura
 
 2. Configura la base de datos PostgreSQL:
